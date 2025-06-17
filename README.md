@@ -1,6 +1,6 @@
 > <h1 align="center"><b><i>Plant Disease Prediction Using Deep Learning</i></b></h1>
 
-> <h3 align="center"><b><i>Graduation Project<br>Bioinformatics Program 2023<br>Faculty of Computer and Information Science<br>Ain Shams University</i></b></h3>
+> <h3 align="center"><b><i>Graduation Project<br>Faculty of Computer and Information Science<br>Ain Shams University</i></b></h3>
 
 > <table align="center">
 >   <tr>
@@ -14,7 +14,7 @@
 <div align="center"><a href="https://github.com/AhmedNasser1601/Plant-Disease-Prediction"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=0FF&center=true&vCenter=true&repeat=true&width=150&lines=View%20Codes"/></a></div>
 
 > <p>Machine-Learning based website for predicting plant diseases. It utilizes CNN models trained on a diverse dataset of plant images to accurately classify and predict the presence of diseases in various crop species. The website provides an intuitive interface for users to upload images of plant leaves and receive real-time disease predictions, along with information on disease types and potential treatments.</p>
-> <code>Developed as a graduation project by a team of Bioinformatics students at Ain Shams University, and aims to assist farmers and researchers in early disease detection and management, ultimately contributing to global food security and sustainable agriculture.</code>
+> <code>Developed as a graduation project by a team of Computer Science students at Ain Shams University, and aims to assist farmers and researchers in early disease detection and management, ultimately contributing to global food security and sustainable agriculture.</code>
 
 > ---
 
